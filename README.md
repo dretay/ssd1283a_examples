@@ -16,13 +16,4 @@ Very simple LCDWIKI-based example on top of an [Arduino Leonardo](https://raw.gi
 
 ## Power Characterization
 > Some basic information from fooling around
-- No backlight
--- 3mA
-- Backlight 10%
--- 4mA
-- Backlight 30%
--- 6.5mA
-- Backlight 50%
--- 9.2mA
-- Backlight 100%
--- 15.8mA
+<img src="https://raw.githubusercontent.com/dretay/ssd1283a_examples/master/backlight_power.png" >
